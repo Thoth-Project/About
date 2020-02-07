@@ -1,2 +1,2 @@
 # Brain-storming
-Just all the possiple ideas
+Write down what comes to ur mind (You are the master mind "God mode enabled")
