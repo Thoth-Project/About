@@ -15,7 +15,7 @@
 
 -Block all distractions on mobile during focus mood 
 
--Todo list 
+-Todo list with micro habitat because because In systems, we grow 
 
 -Set moods (during studying there is a playlist for studying )
 
