@@ -1,4 +1,4 @@
-# Description:
+# Idea:
  “An app that simply shuts down all the distractions and gives you the suitable weapons to go fight your daily enemy procrastination “
  
 -A system which takes a person unconsciously to be better without even noticing so it takes him from zero to hero
@@ -29,3 +29,7 @@
 
 -Mood tracker . after every task the app asks u how do u feel about doing that task so it learns witch tasks makes u happy so when u feel sad it recommends some tasks that u love when u are in the mood of “I don’t feel like doing anything”
 
+# technical Data:
+
+-this app will be made using *react native* framework
+-will be available for (Web,Android,ios) 
