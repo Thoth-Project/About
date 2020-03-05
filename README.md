@@ -32,4 +32,5 @@
 # technical Data:
 
 -this app will be made using *react native* framework
+
 -will be available for (Web,Android,ios) 
